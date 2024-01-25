@@ -1,7 +1,7 @@
 # COVID-19-widespread-and-Vacination-progress
 ## An Insight into COVID-19 widespread and vaccination progress.
 
-The project aims to provide An Insight into COVID-19 widespread and vaccination progress. In this project we focus on analyze 2 main variables covid 19 and Vaccinations. One main data set which was obtained from our world in data will be utilized
+The project aims to provide An Insight into COVID-19 widespread and vaccination progress. In this project we focus on analyze 2 main variables: number of COVID19 cases and Vaccinations. One main data set which was obtained from the real time data provided by WHO. 
 
 After loading and cleaning the data, we will use groupby function and pivot table to choose the right columns to create new dataframes. We will analyse some factors such as the countries that has the top total case and total death, find the trends of vaccine product and people taking the vaccine.
 
